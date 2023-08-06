@@ -58,3 +58,4 @@ docker.elastic.co/elasticsearch/elasticsearch:7.12.0
 ```
 
 #### 部署scrapy爬虫
+通过scrapy构建镜像
