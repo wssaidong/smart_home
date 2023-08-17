@@ -58,4 +58,9 @@ docker.elastic.co/elasticsearch/elasticsearch:7.12.0
 ```
 
 #### 部署scrapy爬虫
-通过scrapy构建镜像
+
+通过scrapy-docker构建运行进行镜像
+
+### 下载通知
+
+使用 [pushdeer](http://www.pushdeer.com) 进行下载消息推送
