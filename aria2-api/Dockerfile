@@ -1,5 +1,5 @@
 FROM fnndsc/centos-python3
-LABEL MAINTAINER=caisd<caisd1@midea.com>
+LABEL MAINTAINER=caisd<caisd1>
 
 WORKDIR /apps
 
